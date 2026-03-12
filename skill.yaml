@@ -1,0 +1,18 @@
+skill:
+  id: security-scanner
+  name: 🔍 安全扫描
+  version: "1.0.0"
+  
+description: |
+  漏洞扫描、风险评估、修复建议
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - security-scanner
+  - 🔍 安全扫描
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
