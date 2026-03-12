@@ -1,0 +1,17 @@
+{
+  "name": "security-scanner",
+  "version": "1.0.0",
+  "description": "漏洞扫描、风险评估、修复建议 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["security-scanner", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/security-scanner"
+  }
+}
